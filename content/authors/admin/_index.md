@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gilles P.P.L. Otten
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,40 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CNRS
+  url: "https://www.cnrs.fr"
+- name: LAM
+  url: "https://www.lam.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include high contrast imaging, high resolution spectroscopy and interferometry.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Astronomical instrumentation
+- Exoplanets
+- Achromatic optics
+- Coronagraphy
+- High dispersion spectroscopy
+- Wavefront sensing
+- Genealogy
+- Genetics
+- History
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Astronomical Instrumentation
+    institution: Leiden Observatory
+    year: 2016
+  - course: MSc in Astronomy
+    institution: Leiden University
+    year: 2011
+  - course: BSc in Astronomy
+    institution: Leiden University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +52,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:gilles.otten@lam.fr'  # For a direct email link, use "mailto:test@example.org".
+- icon: "orcid"
+  icon_pack: ai
+  link: "https://orcid.org/0000-0002-6717-1977"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?user=C1TE22wAAAAJ
+- icon: "linkedin"
+  icon_pack: "fab"
+  link: "https://www.linkedin.com/in/gilles-otten-a68b8b93/"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +73,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Astronomer at Laboratoire d’Astrophysique de Marseille in France working on the combination of high contract imaging and high dispersion spectroscopy. Involved in the MASCARA project at Leiden Observatory which searches for transiting exoplanets around the brightest stars. PhD on the prototyping, lab-testing and on-sky demonstration of a new type of broad-band coronagraphs. Amateur-genealogist with an interest in genetics as a tool to research family history.
