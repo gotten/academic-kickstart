@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Vector APP"
-summary: "The vector Apodizing Phase Plate coronagraph (vAPP) surpresses starlight on both sides of a star using an achromatic pupil-plane coronagraph based on liquid-crystal technology. This enables an improved detection and characterization of exoplanets and their atmospheres."
+title: "PAPYRUS"
+summary: "Installing an Adaptive Optics instrument based around a Pyramid Wavefront Sensor at the T152 at Observatoire de Haute Provence."
 authors: [admin]
-tags: ["vAPP","Astronomy"]
+tags: ["Papyrus","Astronomy"]
 categories: []
-date: 2015-11-01T00:00:00+02:00
+date: 2019-11-01T00:00:00+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "The T152 telescope at Observatoire de Haute Provence. At the coude focus PAPYRUS will bring a newly designed Pyramid Wavefront Sensor."
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The PAPYRUS project was brought to life by the PhD students supported by Postdocs and staffmembers at LAM in Marseille. It gathers the expertise and equipment that has been built up over the years to design and construct a state-of-art Pyramid Wavefront Sensor, to be installed at the 1.52 meter telescope at OHP.

@@ -58,7 +58,7 @@ social:
   link: "https://orcid.org/0000-0002-6717-1977"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=C1TE22wAAAAJ
+  link: https://scholar.google.com/citations?user=C1TE22wAAAAJ
 - icon: "linkedin"
   icon_pack: "fab"
   link: "https://www.linkedin.com/in/gilles-otten-a68b8b93/"

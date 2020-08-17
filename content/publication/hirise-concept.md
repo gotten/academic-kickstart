@@ -29,8 +29,8 @@ abstract = 'Atmospheric composition provides essential markers of the most funda
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
-
+#selected = true
+featured = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's filename without extension.

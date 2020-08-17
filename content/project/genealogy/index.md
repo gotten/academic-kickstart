@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Genealogy"
-summary: "Otten family tree with more than 10000 relatives. Updates since the year 2000."
+summary: "Otten family tree with more than 10000 relatives. Updated since the year 2000."
 authors: [admin]
 tags: ["Genealogy"]
 categories: []

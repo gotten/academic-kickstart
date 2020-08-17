@@ -5,11 +5,15 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 62  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Selected Publications"
 subtitle = ""
+
+#{{% alert note %}}
+#A list with all publications can be found.
+#{{% /alert %}}
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -37,7 +41,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,3 +70,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+{{% alert note %}}
+A complete list with publications can be found [here](https://scholar.google.com/citations?user=C1TE22wAAAAJ).
+{{% /alert %}}

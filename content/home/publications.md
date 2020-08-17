@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 64  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 67  # Order that this section will appear.
 
-title = "Selected Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
