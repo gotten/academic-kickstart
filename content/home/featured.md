@@ -71,5 +71,5 @@ subtitle = ""
  css_class = ""
 +++
 {{% alert note %}}
-A complete list with publications can be found [here](https://scholar.google.com/citations?user=C1TE22wAAAAJ).
+A complete list of publications can be found [here](https://scholar.google.com/citations?user=C1TE22wAAAAJ).
 {{% /alert %}}

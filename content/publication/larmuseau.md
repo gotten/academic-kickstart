@@ -18,7 +18,7 @@ authors = ["M.H.D. Larmuseau","admin","R. Decorte","P. Van Damme","M. Moisse"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Dorensic Science International: Genetics*"
+publication = "In *Forensic Science International: Genetics*"
 publication_short = "In *FSI: Genetics*"
 
 # Abstract and optional shortened version.
