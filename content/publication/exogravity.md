@@ -4,7 +4,7 @@ date = 2020-01-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Mollière","T. Stolker","S. Lacour","admin","J. Shangguan","B. Charnay","T. Molyarova","M. Nowak","Th. Henning","G.D. Marleau","D.A. Semenov","E. van Dishock","F. Eisenhauer","P. Garcia","R. Garcia Lopez","A.Z. Greenbaum","S. Hinkley","P. Kervella","L. Kreidberg","A.L. Maire","E. Nasedkin","L. Pueyo","I.A.G. Snellen","A. Vigan","J. Wang","P.T. de Zeeuw","A. Zurlo"]
+authors = ["P. Mollière","T. Stolker","S. Lacour","admin","J. Shangguan","B. Charnay","T. Molyarova","M. Nowak","Th. Henning","G.D. Marleau","D.A. Semenov","E. van Dishoeck","F. Eisenhauer","P. Garcia","R. Garcia Lopez","A.Z. Greenbaum","S. Hinkley","P. Kervella","L. Kreidberg","A.L. Maire","E. Nasedkin","L. Pueyo","I.A.G. Snellen","A. Vigan","J. Wang","P.T. de Zeeuw","A. Zurlo"]
 
 # Publication type.
 # Legend:
