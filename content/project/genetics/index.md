@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Genetical genealogy"
-summary: "DNA is a powerful tool in family research and has provided valuable clues in my family's origins."
+title: "Genetic genealogy"
+summary: "DNA is a powerful tool in family research and has provided valuable clues in research of my family's origins."
 authors: [admin]
 tags: ["Genealogy","Genetics"]
 categories: []
