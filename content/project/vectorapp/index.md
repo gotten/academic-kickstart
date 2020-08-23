@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "A broadband vector APP tested in the laboratory in Leiden that was one of the subjects of my PhD thesis. *Image credit: Gilles Otten.*"
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The vector Apodizing Phase Plate is a coronagraph that uses a multi-layered patterned liquid crystal device to produce an achromatic phase response that spans up to one order of magnitude. The picture above shows a prototype that was specced to operate from 500-900 nm.

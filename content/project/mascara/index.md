@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "The top of the MASCARA system contains 5 widefield cameras that are looking at all wind directions and zenith. *Image credit: Geert Jan Talens*"
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The MASCARA project was designed and constructed to discover transiting exoplanets around the brightest stars in the sky. All stars brighter than magnitude 8.4 above Airmass 2 are imaged every 6.4 seconds with 6.4 second integration time, creating continuous exposures. Two stations have been constructed, one in La Palma, Spain and the other in La Silla, Chile. Two smaller sister station with only two cameras called bRing reside in Sutherland South Africa and Siding Springs, Australia. 

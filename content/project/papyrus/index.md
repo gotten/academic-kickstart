@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "The T152 telescope at Observatoire de Haute Provence. At the coude focus PAPYRUS will bring a newly designed Pyramid Wavefront Sensor."
+  caption: "The T152 telescope at Observatoire de Haute Provence. At the coude focus PAPYRUS will bring a newly designed Pyramid Wavefront Sensor. *Image credit: Ministère de la culture*"
   focal_point: ""
   preview_only: false
 

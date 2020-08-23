@@ -16,7 +16,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "The cryogenic vessel of the GRAVITY instrument where all 4 UT telescopes are interferometrically combined. *Image credit: MPE/GRAVITY team*"
   focal_point: ""
   preview_only: false
 
@@ -40,3 +40,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The exoGravity project is based around a 14 night long large program to cover multiple known directly imaged exoplanets in multiple epochs using the VLTI/GRAVITY instrument (K-band spectrograph). This allows the team to study the astrometry and spectroscopy (at up to $R=4000$) of these planets and their atmospheres.

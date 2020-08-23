@@ -48,13 +48,13 @@ slides: ""
 # Genealogy
 
 In late 2000 in my second year of high school I was introduced during lessons in History to genealogical research.
-Almost continuously since that moment I have worked on gathering information on my ancestors.
+Almost continuously since that moment I have worked on gathering information on my ancestors as a hobby.
 
-After 20 years I want to release some of the information to the wider public. For family members a database can be found with the link above.
+After 20 years I want to release some of the information to the wider public. For family members a database can be found with the link at the top of the page.
 
 # Automatic transcription of hand-written text
 
 Since several years the [Transkribus](https://transkribus.eu/Transkribus/) software is available that uses various trained neural networks to read hand-written text. It has a steep learning curve but once you are accustomed to it it can accelerate transcriptions.
-As an experiment I applied it to the indices of the death records of Bardenberg from the year 1876 up to 1894 and corrected the 95\% accurate transcription.
+As an experiment I applied it to the indices of the death records of Bardenberg from the year 1876 up to 1888 and corrected the 95\% accurate transcription.
 
-The file located [here](https://drive.google.com/file/d/1AVM5ORyToBKdbxIjPrZWmUJOivdWS1kO/view?usp=sharing) has the first two years as an example. 
+The file located [here](https://drive.google.com/file/d/1AVM5ORyToBKdbxIjPrZWmUJOivdWS1kO/view?usp=sharing) has the first ten years as an example. 

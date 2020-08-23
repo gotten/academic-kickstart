@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Representation of a Full Genome test as seen by a BAM viewer."
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+I have used genetic research to study several branches of my ancestors and break down some brick walls. The most important results have been anonimized for privacy reasons and published in a Book Section in the *"Drents Genealogisch Jaarboek 2017"*.
