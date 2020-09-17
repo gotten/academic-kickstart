@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-I have used genetic research to study several branches of my ancestors and break down some brick walls. The most important results have been anonimized for privacy reasons and published in a Book Section in the *"Drents Genealogisch Jaarboek 2017"*.
+I have used genetic research to study several branches of my ancestors and break down some brick walls. The most striking results have been anonymized for privacy reasons and published in a Book Section in the *"Drents Genealogisch Jaarboek 2017"*.
